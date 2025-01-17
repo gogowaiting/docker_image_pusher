@@ -9,3 +9,4 @@ nginx:latest
 nodejs:1.16.10
 golang-base:1.21-alpine
 alpine-base:latest
+alpine:latest
