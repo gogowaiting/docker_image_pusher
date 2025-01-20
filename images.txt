@@ -5,7 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 golang-base:1.21-alpine
-golang-base:1.21-apline
-alpine-base:latest
-
+cloreai/hiveos:latest
 
