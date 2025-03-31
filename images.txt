@@ -5,5 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 golang-base:1.21-alpine
-cloreai/hiveos:latest
+docker.n8n.io/n8nio/n8n:latest
 
